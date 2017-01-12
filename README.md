@@ -1,3 +1,4 @@
-# lmtry
+LmTry
+=============
 
-##LmTry Inc. All Right Reserverd.
+This is LmTry
