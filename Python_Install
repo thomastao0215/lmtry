@@ -1,0 +1,25 @@
+@Lmtry Inc. All Right Reserved
+Created by Thomas Tao . Jan 12th ,2017.
+ 
+安装Python
+Install Python
+ 
+For Windows:
+https://www.python.org/downloads/windows/
+python-3.6.0-amd64.exe
+ 
+For Mac:
+https://www.python.org/downloads/mac-osx/
+python-3.6.0-macosx10.6.pkg
+ 
+ 
+安装pip
+Install pip
+ 
+$ python get-pip.py
+ 
+安装django
+Install django
+https://www.djangoproject.com/
+ 
+$ pip install Django
